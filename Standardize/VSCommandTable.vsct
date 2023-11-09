@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CommandTable xmlns="http://schemas.microsoft.com/VisualStudio/2005-10-18/CommandTable" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+	<Extern href="stdidcmd.h"/>
+	<Extern href="vsshlids.h"/>
+	<Include href="KnownImageIds.vsct"/>
+	<Include href="VSGlobals.vsct"/>
+
+	<Commands package="Standardize">
+		<Groups>
+			<Group guid="Standardize" id="MyMenuGroup" priority="0x0600">
+				<Parent guid="VSMainMenu" id="Tools"/>
+			</Group>
+		</Groups>
+
+		<!--This section defines the elements the user can interact with, like a menu command or a button
+        or combo box in a toolbar. -->
+		<Buttons>
+			<Button guid="Standardize" id="MyCommand" priority="0x0100" type="Button">
+				<Parent guid="Standardize" id="MyMenuGroup" />
+				<Icon guid="ImageCatalogGuid" id="ArcRing" />
+				<CommandFlag>IconIsMoniker</CommandFlag>
+				<Strings>
+					<ButtonText>Standardize</ButtonText>
+					<LocCanonicalName>.Edit.Standardize</LocCanonicalName>
+				</Strings>
+			</Button>
+			<Button guid="Standardize" id="VariablesCommand" priority="0x0100" type="Button">
+				<Parent guid="Standardize" id="MyMenuGroup" />
+				<Icon guid="ImageCatalogGuid" id="Layer" />
+				<CommandFlag>IconIsMoniker</CommandFlag>
+				<Strings>
+					<ButtonText>Variables</ButtonText>
+					<LocCanonicalName>.Edit.Variables</LocCanonicalName>
+				</Strings>
+			</Button>
+			<Button guid="Standardize" id="CommentsCommand" priority="0x0100" type="Button">
+				<Parent guid="Standardize" id="MyMenuGroup" />
+				<Icon guid="ImageCatalogGuid" id="Triangle" />
+				<CommandFlag>IconIsMoniker</CommandFlag>
+				<Strings>
+					<ButtonText>Comments and indentation</ButtonText>
+					<LocCanonicalName>.Edit.Comments</LocCanonicalName>
+				</Strings>
+			</Button>
+		</Buttons>
+	</Commands>
+
+	<Symbols>
+		<GuidSymbol name="Standardize" value="{bf1d201b-3314-4268-a6c6-85eb2e9366ea}">
+			<IDSymbol name="MyMenuGroup" value="0x0001" />
+			<IDSymbol name="MyCommand" value="0x0100" />
+			<IDSymbol name="VariablesCommand" value="0x0101" />
+			<IDSymbol name="CommentsCommand" value="0x0102" />
+		</GuidSymbol>
+		<GuidSymbol name="ImageCatalogGuid" value="{GuidOfYourImageCatalog}" />
+		<IDSymbol name="ArcRing" value="0x0011" />
+		<IDSymbol name="VariablesIcon" value="0x0012" />
+		<IDSymbol name="CommentIcon" value="0x0013" />
+	</Symbols>
+</CommandTable>
+
