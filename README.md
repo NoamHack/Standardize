@@ -29,7 +29,7 @@
 
 ### סרטונים והדרכות:
 
-בקרוב יצורפו סרטונים להדגמת שימוש ב-extension והנראות שלו בחנות. כיצד לתקנן את הקוד בצורה אפקטיבית ולצפייה בתכולתה של החנות. 💻💻💻
+מצורפים סרטונים להדגמת שימוש ב-extension והנראות שלו בחנות. וכיצד לתקנן את הקוד בצורה אפקטיבית. 💻💻💻
 
 ![Store Pic](https://github.com/NoamHack/Standardize/assets/144808954/5906df03-97c8-43f6-8b52-e97ece8c7435)
 
