@@ -1,4 +1,46 @@
+## ברוכים הבאים ל-Extension של ויזואל סטודיו שהופך את הקוד לתקני ונקי יותר בצורה כמעט אוטומטית.
+
+### האפשרויות כוללות:
+
+1) **ריווח אוטומטי:** הפורמטינג של הקוד יתבצע לפי הסטנדרטים המקובלים.
+  
+2) **שמות משתנים סטנדרטיים:** שמות המשתנים ייקבעו בהתאם לכללים סטנדרטיים.
+  
+3) **ריווח במבנים תנאיים:** בלוקים כגון if ו-switch ירווחו באופן הנכון.
+  
+4) **סגירת סוגריים לאחר return:** עזר לשמירה על קריאות בעת שימוש ב-return.
+  
+5) **ריווח בהערות:** להערות תהיה מרחק נאות שישפר את הקריאות.
+  
+6) **ריווח לפסיקים:** מבטיח שריווחים נשמרים אחרי פסיקים.
+
+### עדכונים עתידיים:
+
+עדכונים נוספים ישולבו בהתאם לתגובות ובקשות של המשתמשים. 💡💡💡
+
+## הוראות התקנה:
+
+על מנת להתקין את ה-extension, פשוט בצעו את השלבים הבאים:
+
+1. פתחו את Visual Studio Code.
+2. גשו ל-Extensions דרך Manage Extension.
+3. בסרגל החיפוש הקלידו: `Standardize`.
+4. בחרו ב-extension המתאים ולחצו על התקנה.
+
+### סרטונים והדרכות:
+
+בקרוב יצורפו סרטונים להדגמת שימוש ב-extension והנראות שלו בחנות. כיצד לתקנן את הקוד בצורה אפקטיבית ולצפייה בתכולתה של החנות. 💻💻💻
+
+https://github.com/NoamHack/Standardize/assets/144808954/6db32cb9-28ab-41ed-862e-86e2e3da361c
+
+https://github.com/NoamHack/Standardize/assets/144808954/f09a8bee-41d0-4fdd-90ad-a944c532325c
+
+https://github.com/NoamHack/Standardize/assets/144808954/90bcd936-b8df-4c2c-be84-4c30e30aba93
+
+https://github.com/NoamHack/Standardize/assets/144808954/ae8e166e-df81-42f8-8a19-19dc6b8561b9
 
 
-https://github.com/NoamHack/Standardize/assets/144808954/760dbe60-257c-4d59-b794-3d2872fe2fba
 
+
+
+אנו מודים לכם על שימושכם ב-extension ומקוה לקבל מכם משוב כדי לשפר ולהמשיך לגרום לכתיבת קוד להיה לחוויה נוחה ויעילה יותר.  
