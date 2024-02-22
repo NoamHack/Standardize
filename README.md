@@ -2,17 +2,17 @@
 
 ### האפשרויות כוללות:
 
-1) **ריווח אוטומטי:** הפורמטינג של הקוד יתבצע לפי הסטנדרטים המקובלים.
+  **ריווח אוטומטי:** הפורמטינג של הקוד יתבצע לפי הסטנדרטים המקובלים.
   
-2) **שמות משתנים סטנדרטיים:** שמות המשתנים ייקבעו בהתאם לכללים סטנדרטיים.
+   **שמות משתנים סטנדרטיים:** שמות המשתנים ייקבעו בהתאם לכללים סטנדרטיים.
   
-3) **ריווח במבנים תנאיים:** בלוקים כגון if ו-switch ירווחו באופן הנכון.
+   **ריווח במבנים תנאיים:** בלוקים כגון if ו-switch ירווחו באופן הנכון.
   
-4) **סגירת סוגריים לאחר return:** עזר לשמירה על קריאות בעת שימוש ב-return.
+   **סגירת סוגריים לאחר return:** עזר לשמירה על קריאות בעת שימוש ב-return.
   
-5) **ריווח בהערות:** להערות תהיה מרחק נאות שישפר את הקריאות.
+   **ריווח בהערות:** להערות תהיה מרחק נאות שישפר את הקריאות.
   
-6) **ריווח לפסיקים:** מבטיח שריווחים נשמרים אחרי פסיקים.
+   **ריווח לפסיקים:** מבטיח שריווחים נשמרים אחרי פסיקים.
 
 ### עדכונים עתידיים:
 
@@ -22,16 +22,16 @@
 
 על מנת להתקין את ה-extension, פשוט בצעו את השלבים הבאים:
 
-1. פתחו את Visual Studio Code.
-2. גשו ל-Extensions דרך Manage Extension.
-3. בסרגל החיפוש הקלידו: `Standardize`.
-4. בחרו ב-extension המתאים ולחצו על התקנה.
+   פתחו את Visual Studio Code.
+   גשו ל-Extensions דרך Manage Extension.
+   בסרגל החיפוש הקלידו: `Standardize`.
+   בחרו ב-extension המתאים ולחצו על התקנה.
 
 ### סרטונים והדרכות:
 
 בקרוב יצורפו סרטונים להדגמת שימוש ב-extension והנראות שלו בחנות. כיצד לתקנן את הקוד בצורה אפקטיבית ולצפייה בתכולתה של החנות. 💻💻💻
 
-https://github.com/NoamHack/Standardize/assets/144808954/6db32cb9-28ab-41ed-862e-86e2e3da361c
+![Store Pic](https://github.com/NoamHack/Standardize/assets/144808954/5906df03-97c8-43f6-8b52-e97ece8c7435)
 
 https://github.com/NoamHack/Standardize/assets/144808954/f09a8bee-41d0-4fdd-90ad-a944c532325c
 
